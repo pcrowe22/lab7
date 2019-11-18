@@ -1,6 +1,6 @@
 function init(){
   document.getElementById("entrybutton").addEventListener("onclick", myAlert());
-  document.getElementById("entrybutton").addEventListener("onclick", 
+  document.getElementById("entrybutton").addEventListener("onclick", output());
 } 
 function myAlert(){
   alert("Patrick Crowe: " + document.getElementById("entryinput"));
