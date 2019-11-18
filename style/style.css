@@ -1,4 +1,5 @@
 #entrybutton{
   padding: .5em;
   background-color: orange;
+  width: 60px;
 }
